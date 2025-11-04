@@ -20,8 +20,8 @@
 1. **Clone Repository**
 
    ```powershell
-   git clone https://github.com/username/galacash.git
-   cd galacash
+   git clone https://github.com/Naufal-A/PROJECT-PPW-K3.git
+   cd PROJECT-PPW-K3
    ```
 
 2. **Setup Node.js**
@@ -43,7 +43,7 @@
    ```
 
 4. **VS Code Setup**
-   Install recommended extensions:
+Install recommended extensions:
    - Edge Template Syntax
    - Adonis JS Extension (bukan yang unggu)
    - Auto Rename Tag
@@ -78,8 +78,8 @@ docs(readme): update deployment steps
 
 
 ## 📦 Main Project Structure
-[app/]       Berisi Controller, Model, Middleware, dan logika bisnis utama.
-[config/]    File konfigurasi untuk aplikasi (database, session, dll.).
-[database/]  Berisi migration, seeders, dan definisi database lainnya.
-[resources/] Semua template EdgeJS (.edge) untuk frontend.
-[start/]     Konfigurasi route (start/routes.ts), kernel, dan hooks.
+- [app/]       Berisi Controller, Model, Middleware, dan logika bisnis utama.
+- [config/]    File konfigurasi untuk aplikasi (database, session, dll.).
+- [database/]  Berisi migration, seeders, dan definisi database lainnya.
+- [resources/] Semua template EdgeJS (.edge) untuk frontend.
+- [start/]     Konfigurasi route (start/routes.ts), kernel, dan hooks.
